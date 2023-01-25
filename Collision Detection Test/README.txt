@@ -6,5 +6,7 @@ purposes. I plan on adding to this program by incorporating altitude in order
 to improve its accuracy.
 
 USAGE:
+Provided that pygame is installed, run the python file.
+
 Use WASD for movement of top-side plane
 Use arrow keys for movement of bottom-side plane
